@@ -90,11 +90,11 @@ toFixed()의 인자를 넣으면 인자값만큼 반올림하여 소수점을 �
 
  ✔ 두 피연산자의 유형이 다르기 때문에 ->false
 
-0 === false // expected output: false 
+₩0 === false // expected output: false 
 
 console.log(typeof 0); // expected output: “number”
 
-console.log(typeof false); // expected output: “boolean”
+console.log(typeof false); // expected output: “boolean”₩
 
  
 -------------------------------------
